@@ -47,5 +47,3 @@
 ---
 
 *此主页基于仓库自动归类生成 · 2026-09*
-
-Co-Authored-By: Claude Code <noreply@anthropic.com>
