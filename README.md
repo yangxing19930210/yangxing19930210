@@ -11,7 +11,6 @@
 ## 🚀 原创项目
 
 - **[go-reality-server](https://github.com/yangxing19930210/go-reality-server)** — Go 实现的 REALITY 代理服务端 🟢 活跃开发中
-- [jdk8](https://github.com/yangxing19930210/jdk8) — JDK 8 源码学习
 
 ## 📚 技术收藏馆 · 精选导航
 
