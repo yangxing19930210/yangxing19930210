@@ -1,6 +1,6 @@
 # 你好,我是 yangxing 👋
 
-**Java 后端工程师。**
+**架构师**
 
 长期深耕 Spring 生态与分布式中间件,喜欢啃源码 —— Spring、Dubbo、MyBatis、Redis、Netty 的实现原理都收藏了不少;
 近期的学习重心正转向 **Go、云原生与 AI 工程化**。
