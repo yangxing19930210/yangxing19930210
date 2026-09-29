@@ -12,9 +12,6 @@
 
 - **[go-reality-server](https://github.com/yangxing19930210/go-reality-server)** — Go 实现的 REALITY 代理服务端 🟢 活跃开发中
 - [jdk8](https://github.com/yangxing19930210/jdk8) — JDK 8 源码学习
-- [dubbo](https://github.com/yangxing19930210/dubbo) / [annotation](https://github.com/yangxing19930210/annotation) — Dubbo 与 Java 注解实践
-- [mail-decryption](https://github.com/yangxing19930210/mail-decryption) — 邮件定时发送与接收(JavaScript)
-- [parent](https://github.com/yangxing19930210/parent) — Maven 多模块父工程
 
 ## 📚 技术收藏馆 · 精选导航
 
